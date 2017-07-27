@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="thisformattest"
+    errors="0" failures="1" hostname="" id="" package="thisformattest" skipped="0"
+    tests="1" time="4.833" timestamp="Thu, 27 Jul 2017 22:28:43 GMT">
+  
+    <testcase name="demoTestGoogle" classname="thisformattest" time="4.833" assertions="2">
+
+      <failure message="Timed out while waiting for element &lt;button[name=btnG]&gt; to be visible for 1000 milliseconds.">    at Object.__dirname.demoTestGoogle (/Users/rraihenn/Desktop/Project/myTestProjects/nightWatch-automation/tests/thisformattest.js:6:6)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
